@@ -8,7 +8,7 @@
 - 😩 I’m currently schooling but eager to learn and expand
 
 - 👨‍💻 All of my projects are available at [https://github.com/Fourteen98](https://github.com/Fourteen98)
-- 
+
 -  👯 I’m looking to collaborate on project which uses c++, python, django etc
 
 - 💬 Ask me about **anything :)**
