@@ -1,5 +1,5 @@
 <h1 align="center">🙄 Fourteen98</h1>
-<h3 align="center">Be phenomenal or be forgotten</h3>
+<h3 align="center">Declare Variables Not Wars ❌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fourteen98&label=Profile%20views&color=1c1c1c&style=flat" alt="Fourteen98" /> </p>
 
