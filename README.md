@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fourteen98" alt="Fourteen98" /></a> </p>
 
-- 😩 I’m currently schooling but eager to learn and expand
+- 😩 I’m currently working as a DevOps Engineer
 
-- 👨‍💻 All of my projects are available at [https://github.com/Fourteen98](https://github.com/Fourteen98)
+- 👨‍💻 All of my projects (owned and burrowed) are available at [https://github.com/Fourteen98](https://github.com/Fourteen98)
 
 -  👯 I’m looking to collaborate on project which uses c++, python, django etc
 
