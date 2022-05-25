@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects (owned and burrowed) are available at [https://github.com/Fourteen98](https://github.com/Fourteen98) and [https://github.com/succeed98](https://github.com/succeed98)
 
--  👯 I’m looking to collaborate on project which uses c++, python, django etc
+-  👯 I’m looking to collaborate on project which uses any cloud platform, ansible, vagrant, docker, k8, c++/c, python, django etc
 
 - 💬 Ask me about **anything :)**
 
