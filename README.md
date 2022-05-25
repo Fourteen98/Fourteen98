@@ -7,7 +7,7 @@
 
 - 😩 I’m currently working as a DevOps Engineer
 
-- 👨‍💻 All of my projects (owned and burrowed) are available at [https://github.com/Fourteen98](https://github.com/Fourteen98)
+- 👨‍💻 All of my projects (owned and burrowed) are available at [https://github.com/Fourteen98](https://github.com/Fourteen98) and [https://github.com/succeed98](https://github.com/succeed98)
 
 -  👯 I’m looking to collaborate on project which uses c++, python, django etc
 
