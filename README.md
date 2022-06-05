@@ -1,11 +1,44 @@
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+
+<br>
+
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
 <h1 align="center">🙄 Fourteen98</h1>
 <h3 align="center">Declare Variables Not Wars ❌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fourteen98&label=Profile%20views&color=1c1c1c&style=flat" alt="Fourteen98" /> </p>
+## My Statistics
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fourteen98" alt="Fourteen98" /></a> </p>
+<br/>
+<p align="left">
+  <a href="https://github.com/aliatayee/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fourteen98&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fourteen98&theme=gruvbox&hide_border=true" />
+  </a>
+</p>
+<br>
 
-- 😩 I’m currently working as a DevOps Engineer
+
+[![Fourteen's Activity Graph](https://activity-graph.herokuapp.com/graph?username=fourteen98&custom_title=Fourteen98's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/fourteen98/)
+
+
+<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fourteen98" alt="Fourteen98" /></a> </p> -->
+
+- 😩 I’m currently working as a DevOps Engineer / Backend
 
 - 👨‍💻 All of my projects (owned and burrowed) are available at [https://github.com/Fourteen98](https://github.com/Fourteen98) and [https://github.com/succeed98](https://github.com/succeed98)
 
@@ -23,4 +56,4 @@
 <a href="https://instagram.com/Fourteen98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="Fourteen98" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fourteen98&show_icons=true&theme=onedark&text_color=000000&bg_color=242424&hide_border=true&locale=en" alt="Fourteen98" /></p>
+
