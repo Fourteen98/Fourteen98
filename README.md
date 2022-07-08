@@ -1,5 +1,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
+<h1 align="center">🙄 Fourteen98</h1>
+<h3 align="center">Declare Variables Not Wars ❌</h3>
 
 <br>
 
@@ -17,8 +19,6 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
-<h1 align="center">🙄 Fourteen98</h1>
-<h3 align="center">Declare Variables Not Wars ❌</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Fourteen98&label=Profile%20views&color=1c1c1c&style=flat" alt="Fourteen98" /> </p>
 ## My Statistics
