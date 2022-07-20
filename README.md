@@ -6,13 +6,15 @@
 <br>
 
 ### 🛠 &nbsp;Tech Stack
-
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![NPM](https://img.shields.io/badge/npm-CB3837?style=flat&logo=npm&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat&logo=jest&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -20,23 +22,22 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fourteen98&label=Profile%20views&color=1c1c1c&style=flat" alt="Fourteen98" /> </p>
-## My Statistics
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Fourteen98&label=Profile%20views&color=blue&style=plastic"  alt="Fourteen98" /> </p>
+
 
 <br/>
 <p align="left">
-  <a href="https://github.com/aliatayee/">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=fourteen98&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=fourteen98&theme=gruvbox&hide_border=true" />
+  <a href="https://github.com/wdavidcch/">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Fourteen98&show_icons=true&theme=react&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Fourteen98&theme=react&hide_border=true" />
   </a>
 </p>
 <br>
 
+[![Fourteenn98's Activity Graph](https://activity-graph.herokuapp.com/graph?username=Fourteen98&custom_title=Fourteen98's%20Contribution%20Graph&theme=react-dark&hide_border=true)](https://github.com/Fourteen98/)
 
-[![Fourteen's Activity Graph](https://activity-graph.herokuapp.com/graph?username=fourteen98&custom_title=Fourteen98's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://github.com/fourteen98/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fourteen98&theme=react&layout=compact&card_width=1000)](https://github.com/Fourteen98/Fourteen98)
 
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Fourteen98" alt="Fourteen98" /></a> </p> -->
 
 - 👨‍💻 All of my projects (owned and burrowed) are available at [https://github.com/Fourteen98](https://github.com/Fourteen98) and [https://github.com/succeed98](https://github.com/succeed98)
 
