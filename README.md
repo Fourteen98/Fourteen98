@@ -14,6 +14,8 @@
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
+![ruby](https://img.shields.io/badge/-ruby-05122A?style=flat&logo=ruby&logoColor=092E20)&nbsp;
+![Postgres](https://img.shields.io/badge/postgres-05122A?style=flat&logo=postgresql&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![WEBPACK](https://img.shields.io/badge/-WEBPACK-05122A?style=flat&logo=webpack)&nbsp;
